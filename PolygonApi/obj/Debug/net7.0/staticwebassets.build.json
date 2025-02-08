@@ -1,19 +1,11 @@
 {
   "Version": 1,
-  "Hash": "PKbxkBe3c8I2CNUGLmUGO4K/XdAT3GiZTvuo3+7HCwQ=",
+  "Hash": "VvZOWv/8+T7DXQX0m0HJytsw94CA2JP+d+lWYUP3xgI=",
   "Source": "PolygonApi",
   "BasePath": "_content/PolygonApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [
-    {
-      "Name": "PolygonApi\\wwwroot",
-      "Source": "PolygonApi",
-      "ContentRoot": "C:\\Users\\yakut\\Desktop\\PolygonApi\\wwwroot\\",
-      "BasePath": "_content/PolygonApi",
-      "Pattern": "**"
-    }
-  ],
+  "DiscoveryPatterns": [],
   "Assets": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yakut\\Desktop\\PolygonApi\\PolygonApi.csproj": {}
+    "C:\\Users\\yakut\\Desktop\\Polygon_Api\\PolygonApi\\PolygonApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yakut\\Desktop\\PolygonApi\\PolygonApi.csproj": {
+    "C:\\Users\\yakut\\Desktop\\Polygon_Api\\PolygonApi\\PolygonApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yakut\\Desktop\\PolygonApi\\PolygonApi.csproj",
+        "projectUniqueName": "C:\\Users\\yakut\\Desktop\\Polygon_Api\\PolygonApi\\PolygonApi.csproj",
         "projectName": "PolygonApi",
-        "projectPath": "C:\\Users\\yakut\\Desktop\\PolygonApi\\PolygonApi.csproj",
+        "projectPath": "C:\\Users\\yakut\\Desktop\\Polygon_Api\\PolygonApi\\PolygonApi.csproj",
         "packagesPath": "C:\\Users\\yakut\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yakut\\Desktop\\PolygonApi\\obj\\",
+        "outputPath": "C:\\Users\\yakut\\Desktop\\Polygon_Api\\PolygonApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
